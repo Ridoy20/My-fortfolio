@@ -1,0 +1,41 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+.Color-first {
+    color: rgb(161, 15, 129);
+}
+
+
+
+#too {
+    color: red;
+}
+
+#pfirst {
+    font-size: 15px;
+    text-justify: auto;
+}
+
+section {
+    display: flex;
+    background-color: rgba(221, 34, 128, 0.212);
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 15%;
+    padding-right: 10%;
+}
+
+.half-width img {
+    width: 20%;
+}
+
+.link-button {
+    text-anchor: end;
+    color: azure;
+    background-color: chartreuse;
+    padding: 10px 40px;
+}
